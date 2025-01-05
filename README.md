@@ -1,0 +1,1 @@
+This repo demonstrates a common error in Next.js 15 API routes: failure to handle exceptions during JSON parsing.  The `bug.js` file shows the problematic code. The solution in `bugSolution.js` adds comprehensive error handling to prevent application crashes.
